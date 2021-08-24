@@ -1,0 +1,17 @@
+/*for servies gradient section background gradient */
+.feature{
+    background: rgb(0,121,230);
+    background: linear-gradient(0deg, rgba(0,121,230,1)0%,rgba(0,250,255,1)90%);
+}
+*{
+    scroll-behavior: smooth;
+   }
+   #cart{
+    background: rgb(84,193,160);
+    background: linear-gradient(90deg, rgba(84,193,160,1) 92%, rgba(36,0,22,1) 100%, rgba(0,212,255,1) 100%);
+   }
+
+   .bg_checkout_1{
+       background-color: #8EC5FC;
+       background-image: linear-gradient(62deg, #8EC5FC 0%,#E0C3FC 100%);
+   }
